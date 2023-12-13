@@ -12,12 +12,12 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js">
 
 <body>
-<div class="bg-light">
+<div class="bg-light" style="height:100vh">
     <div class="container">
         <div class="row justify justify-content-center">
             <div class="col-11 col-md-8 col-lg-6 col-xl-5">
                 <form class="" method="POST" action="index.php">
-                    <div class="card bg-dark">
+                    <div class="card" style='background:#AEB2D5'>
                         <div class="row mt-0">
                             <div class="col-md-12 ">
                                 <h4 class="text-white"> PHP Integration with Bulk SMS💌</h4>
